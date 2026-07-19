@@ -22,9 +22,12 @@ Get the latest signed build for your platform:
 
 | Platform | Download |
 |---|---|
-| **macOS** (Intel & Apple Silicon) | [ThisQuarter-macos-universal.zip](https://github.com/computify/ThisQuarter/releases/latest/download/ThisQuarter-macos-universal.zip) |
-| **Windows** (10/11, 64-bit) | [ThisQuarter-windows-amd64.zip](https://github.com/computify/ThisQuarter/releases/latest/download/ThisQuarter-windows-amd64.zip) |
+| **macOS** (Intel & Apple Silicon) | [ThisQuarter-macos-universal.dmg](https://github.com/computify/ThisQuarter/releases/latest/download/ThisQuarter-macos-universal.dmg) |
+| **Windows** (10/11, 64-bit) | [ThisQuarter-windows-amd64.exe](https://github.com/computify/ThisQuarter/releases/latest/download/ThisQuarter-windows-amd64.exe) |
 | **Linux** (64-bit) | [ThisQuarter-linux-amd64.tar.gz](https://github.com/computify/ThisQuarter/releases/latest/download/ThisQuarter-linux-amd64.tar.gz) |
+
+**macOS** — open the `.dmg` and drag **ThisQuarter** to Applications. &nbsp;**Windows** — run the
+`.exe` (it's code-signed). &nbsp;**Linux** — extract the `.tar.gz` and run the binary.
 
 Or grab any version from the [**Releases**](https://github.com/computify/ThisQuarter/releases) page.
 
