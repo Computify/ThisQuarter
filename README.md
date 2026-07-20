@@ -45,7 +45,7 @@ The app checks for updates automatically and tells you when a new version is ava
   reported against you.
 - **For accountants** — connect your Agent Services Account, invite and manage
   clients, and file for all of them from one place.
-- **Import/Export** — bring figures in from Excel and CSV. **(SOON)**
+- **Import/Export** — bring figures in from Excel and CSV.
 - **Private by design** — your figures, National Insurance number and UTR stay
   **encrypted on your own computer**. Only the submissions you choose are sent to
   HMRC — never to us.
